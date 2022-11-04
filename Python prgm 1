@@ -1,0 +1,5 @@
+n1=[]
+for x in range(10,150):
+if(×%15==0) and (×%5==0):
+n1.append(str(x))
+print(','.join(n1))
